@@ -4,3 +4,7 @@
 Compile and run the integration tests and share the results
 
 Run Bitcoin core v29 and use at least 5 RPC commands and share the output
+
+** Run Evidence **
+
+<img src="images/Nelly_Arsey_Nakhero.png " alt="Installation Screenshots" width="400"/>
