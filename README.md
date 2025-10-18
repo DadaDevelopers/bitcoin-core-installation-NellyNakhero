@@ -7,4 +7,4 @@ Run Bitcoin core v29 and use at least 5 RPC commands and share the output
 
 ** Run Evidence **
 
-<img src="https://drive.google.com/file/d/1Nxqo5RVNE4qj5gSx2ZywMcxl0AMDiPm5/view?usp=drive_link" alt="Installation Screenshots" width="400"/>
+![Run Evidence](Nelly_Arsey_Nakhero.jpg)
